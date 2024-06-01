@@ -1,0 +1,12 @@
+import Dog from "./Dog";
+
+
+export default function App() {
+  return (
+    <div className="App">
+
+ <Dog />
+
+ </div>
+  );
+}
