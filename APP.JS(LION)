@@ -1,0 +1,11 @@
+import Lion from "./Lion";
+
+export default function App() {
+  return (
+    <div className="App">
+ <Lion name="Todd" from="SouthAfrica" />
+      <Lion from="India" />
+</div>
+  );
+}
+
