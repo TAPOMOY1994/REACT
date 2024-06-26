@@ -1,0 +1,14 @@
+import ColorList from "./ColorList";
+
+
+
+export default function App() {
+  return (
+    <div className="App">
+
+<ColorList colors={["blue", "green", "yellow", "red"]} />
+
+
+</div>
+  );
+}
